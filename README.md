@@ -1,6 +1,6 @@
 # About / 关于
 
-- Chinese but currently in UK / 在英国的奉天府人
+- Chinese but currently in UK / 在英国的奉天人
 - Biological Male / 生理男性
 - Gender: / 性别： ♂
 - Timezome: / 时区： `GMT`
