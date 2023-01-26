@@ -13,6 +13,7 @@
 - **Discord:** YuLun#2806
 - [**Steam**](https://steamcommunity.com/id/YuLun-bili/)
 - [**BiliBili**](https://space.bilibili.com/528483587)
+- [**Twitter**](https://twitter.com/YuLun233)
 
 <!---
 YuLun-bili/YuLun-bili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
