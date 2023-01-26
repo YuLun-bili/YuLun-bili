@@ -4,8 +4,6 @@
 - Electronic Engineering Student (Yr 1 @ [University of Southampton](https://www.southampton.ac.uk/))
 - [Teardown](https://store.steampowered.com/app/1167630/) Player && Modder / [Teardown](https://store.steampowered.com/app/1167630/) 玩家兼模组作者
 - ETS2 (TMP) Player / 欧卡玩家
-- Biological Male / 生理男性
-- Gender: / 性别： ♂
 - Timezome: / 时区： `GMT`
 
 ### Other Medias / 其它平台
